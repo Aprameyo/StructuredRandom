@@ -74,7 +74,7 @@ function setup() {
 	}
 
 	slider = createSlider(0, 1, .5, .05);
-	slider.position(windowWidth/2, windowHeight - 30);
+	slider.position(windowWidth/2 - 40, windowHeight - 30);
 
 	//song.play();
   	//song.loop();
